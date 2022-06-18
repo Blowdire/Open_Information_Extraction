@@ -1,2 +1,6 @@
 /Dune.txt
 /Dune_NER.txt
+/Dumps/*/*
+/LOTR1_spacy.json
+DUNE_spacy.json
+*.props
