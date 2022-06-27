@@ -4,3 +4,5 @@
 /LOTR1_spacy.json
 DUNE_spacy.json
 *.props
+word2vec-google-news-300.model
+word2vec-google-news-300.model.vectors.npy
